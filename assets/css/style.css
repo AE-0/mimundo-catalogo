@@ -631,7 +631,6 @@ banner
 .main-banner .left-content .thumb img {
   width: 100%;
   overflow: hidden;
-  filter: contrast(60%);
 }
 
 .main-banner .left-content .inner-content {
